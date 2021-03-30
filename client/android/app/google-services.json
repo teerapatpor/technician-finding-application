@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "805409191095",
+    "project_id": "technician-finding-imageupload",
+    "storage_bucket": "technician-finding-imageupload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805409191095:android:1e401a64f2397056848932",
+        "android_client_info": {
+          "package_name": "com.technicianfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805409191095-r91o2plv15k6vpl2vrau0iecsd48dl8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs8hnxF4agqDm4gaeu16KhQAjXPozxXEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805409191095-r91o2plv15k6vpl2vrau0iecsd48dl8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "805409191095-7e2u227oj19h7osraf0pniokem9i244s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "technicianFinding"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
