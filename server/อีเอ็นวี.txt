@@ -1,0 +1,4 @@
+DATA_BASE=mongodb+srv://teerapat:rIcwz1Ch5K6kRVsP@finding-technician-serv.rmnnr.mongodb.net/finding-technician?retryWrites=true&w=majority
+PORT=9999
+OTPID=AC4c7bab831d608ed2b40150be4c57d0c2
+OTPAUTH=5d10ee64dccbf1f9c6380e3bb375688d
