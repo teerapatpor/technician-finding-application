@@ -1,7 +1,9 @@
 # technician-finding-application
 -----------------------------------------------------------------------
 ในส่วนของ Client
-
+**cd client
+**yarn install or npm install
+**cd ios && pod install
 
 
 
