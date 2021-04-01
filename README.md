@@ -1,13 +1,9 @@
 # Technician Finding Application
+## Client Site
 
-### Client Site
-> cd client
-#### Create .env file to root directory
-.env
-```
-GOOGLE_API="<GOOGLE_API>"
-ENDPOINT="<ENDPONT_URL>"
-```
+#### Set .env file
+> cp .env.example .env
+>> Add GOOGLE_API in .env file
 
 ##### For IOS
 ```
@@ -24,7 +20,6 @@ ENDPOINT="<ENDPONT_URL>"
 
 
 
------------------------------------------------------------------------
 ### Server Site
 > cd server
 ```
@@ -32,3 +27,4 @@ ENDPOINT="<ENDPONT_URL>"
   2. cp อีเอ็นวี.txt .env
   3. npm start
 ```
+---
