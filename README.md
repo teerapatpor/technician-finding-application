@@ -1,5 +1,5 @@
 # Technician Finding Application
-
+---
 ### Client Site
 > cd client
 #### Create .env file to root directory
@@ -21,10 +21,10 @@ ENDPOINT="<ENDPONT_URL>"
   1. yarn install or npm install
   2. react-native run-android
 ```
+---
 
 
-
------------------------------------------------------------------------
+---
 ### Server Site
 > cd server
 ```
@@ -32,3 +32,4 @@ ENDPOINT="<ENDPONT_URL>"
   2. cp อีเอ็นวี.txt .env
   3. npm start
 ```
+---
