@@ -1,12 +1,9 @@
 # Technician Finding Application
-### Client Site
-> cd client
-#### Create .env file to root directory
-.env
-```
-GOOGLE_API="<GOOGLE_API>"
-ENDPOINT="<ENDPONT_URL>"
-```
+## Client Site
+
+#### Set .env file
+> cp .env.example .env
+>> Add GOOGLE_API in .env file
 
 ##### For IOS
 ```
@@ -20,6 +17,7 @@ ENDPOINT="<ENDPONT_URL>"
   1. yarn install or npm install
   2. react-native run-android
 ```
+
 
 
 ### Server Site
