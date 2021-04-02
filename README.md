@@ -1,6 +1,6 @@
 # Technician Finding Application
 ## Client Site
-
+> cd client
 #### Set .env file
 > cp .env.example .env
 >> Add GOOGLE_API in .env file
