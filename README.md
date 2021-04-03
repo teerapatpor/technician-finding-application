@@ -14,7 +14,7 @@
   3. cd ..
   4. react-native run-ios
 ```
-###### For Android
+##### For Android
 ```
   1. yarn install or npm install
   2. react-native run-android
