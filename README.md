@@ -20,13 +20,13 @@
   2. react-native run-android
 ```
 
+---
 
 
-### Server Site
+## Server Site
 ###### cd server
 ```
   1. yarn install or npm install 
   2. cp อีเอ็นวี.txt .env
   3. npm start
 ```
----
