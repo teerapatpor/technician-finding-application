@@ -1,5 +1,5 @@
 # Technician Finding Application
-## Client Site
+## Client Side
 ###### cd client
 #### Set .env file
  ```
@@ -22,7 +22,7 @@
 
 
 
-### Server Site
+### Server Side
 ###### cd server
 ```
   1. yarn install or npm install 
