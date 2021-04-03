@@ -4,6 +4,7 @@
 #### Set .env file
 > cp .env.example .env
 >> Add GOOGLE_API in .env file
+>> Add GOOGLE_API in AndroidManifest.xml file
 
 ##### For IOS
 ```
