@@ -1,6 +1,6 @@
 # Technician Finding Application
 ## Client Side
-###### cd client
+###### cd sourcecode/client
 #### Set .env file
  ```
   1. cp .env.example .env
@@ -23,7 +23,7 @@
 ---
 
 ## Server Side
-###### cd server
+###### cd sourcecode/server
 ```
   1. yarn install or npm install 
   2. cp อีเอ็นวี.txt .env
